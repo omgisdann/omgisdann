@@ -17,7 +17,7 @@ Olá, me chamo Danilo, tenho 20 anos e sou natural de São Paulo. Atualmente, cu
    <img 
    alt="followers" 
    title="Follow me on Github" 
-   src="https://custom-icon-badges.demolab.com/github/followers/omgisdann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
+   src="https://custom-icon-badges.demolab.com/github/followers/omgisdann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Siga-me&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/danilo-souza-41b631306/">
 <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Danilo%20Souza-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=555555"/>
@@ -34,6 +34,7 @@ Olá, me chamo Danilo, tenho 20 anos e sou natural de São Paulo. Atualmente, cu
 
 ### Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="Python" 
@@ -46,22 +47,26 @@ Olá, me chamo Danilo, tenho 20 anos e sou natural de São Paulo. Atualmente, cu
 <br/>
 <br/>
 
-### Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=omgisdann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+<tr>
+
+<td width="50%">
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgisdann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=omgisdann&show_icons=true&theme=tokyonight"
+width="100%"/>
 
-</p>
+</td>
+
+<td width="50%">
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omgisdann&layout=compact&theme=tokyonight&langs_count=4&custom_title=Linguagens"
+width="100%"/>
+
+</td>
+
+</tr>
+</table>

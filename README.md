@@ -13,9 +13,12 @@ Olá, me chamo Danilo, tenho 20 anos e sou natural de São Paulo. Atualmente, cu
     </a>
     <a 
         />
-       <a href="https://github.com/omgisdann?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/omgisdann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    </a>  
+      <a href="https://github.com/omgisdann?tab=followers">
+   <img 
+   alt="followers" 
+   title="Follow me on Github" 
+   src="https://custom-icon-badges.demolab.com/github/followers/omgisdann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
+</a>
   <a href="https://www.linkedin.com/in/danilo-souza-41b631306/">
 <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Danilo%20Souza-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=555555"/>
 <a href="https://www.instagram.com/o.__souza/">

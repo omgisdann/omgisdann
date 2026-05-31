@@ -18,8 +18,8 @@ Olá, me chamo Danilo, tenho 20 anos e sou natural de São Paulo. Atualmente, cu
     </a>  
   <a href="https://www.linkedin.com/in/danilo-souza-41b631306/">
 <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Danilo%20Souza-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=555555"/>
-<a href="https://www.instagram.com/o._souza/">
-<img alt="instagram" src="https://custom-icon-badges.demolab.com/badge/-@o._souza-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=555555"/>
+<a href="https://www.instagram.com/o.__souza/">
+<img alt="instagram" src="https://custom-icon-badges.demolab.com/badge/-@o.__souza-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=555555"/>
 </a>
 
 </p>

@@ -39,10 +39,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-rho-one-79.vercel.app/api?username=omgisdann&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=omgisdann&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats-rho-one-79.vercel.app/api/top-langs/?username=omgisdann&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgisdann&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
